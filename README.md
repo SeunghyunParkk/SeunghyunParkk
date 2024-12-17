@@ -2,7 +2,7 @@
 
 👨 **I am passionate about the delivery of data solutions in line with strategic business objectives and foster data-driven decision in my future career.**
 
-📖 I completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy and [**Bachelor of Science in Physics**](https://www.physics.utoronto.ca) at the University of Toronto.
+📖 **I completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy and [**Bachelor of Science in Physics**](https://www.physics.utoronto.ca) at the University of Toronto.**
 
 🔭 **I am proficient in using tools like**
 <p align="left">
