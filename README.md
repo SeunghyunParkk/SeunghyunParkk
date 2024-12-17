@@ -3,7 +3,7 @@
 * I am passionate about the delivery of data solutions in line with strategic business objectives and foster data-driven decision in my future career. 
 
 
-* I am proficient in using tools like Python, R, SQL, and SAS.
+* I am proficient in using tools like Python, R, SQL, SAS, Power BI and Looker Studio.
 
 
 * I've contributed to projects that have had focus on data analysis, machine learning, and data visualization.
