@@ -15,8 +15,9 @@
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" alt="seaborn" width="40" height="40"/> 
 <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="seaborn" width="40" height="40"/> 
 </p>
-  
 
 🚀 **I've contributed to projects that have had focus on data analysis, machine learning, and data visualization.**
 
 📫 **How to reach me: seunghyun.park@mail.mcgill.ca**
+
+🌐 **My website: [https://seunghyunparkk.github.io](https://seunghyunparkk.github.io)**
