@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Seunghyun</a>
 
-👨 **I am passionate about the delivery of data solutions in line with strategic business objectives and foster data-driven decision in my future career.**
+👨 **I am passionate about delivering data solutions that align with strategic business objectives and enabling data-driven decision-making.**
 
 📖 **I completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy and [**Bachelor of Science in Physics**](https://www.physics.utoronto.ca) at the University of Toronto.**
 
@@ -16,7 +16,7 @@
 <a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="seaborn" width="40" height="40"/> 
 </p>
 
-🚀 **I've contributed to projects that have had focus on data analysis, machine learning, and data visualization.**
+🚀 **I have successfully contributed to projects focused on data analysis, machine learning, and data visualization, delivering actionable insights and impactful results.**
 
 📫 **How to reach me: seunghyun.park@mail.mcgill.ca**
 
