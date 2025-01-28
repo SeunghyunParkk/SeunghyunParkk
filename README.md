@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Seunghyun</a>
 
-👨 **I am passionate about delivering data solutions that align with strategic business objectives and enabling data-driven decision-making.**
+👨 **I am passionate about delivering data solutions that align with strategic business objectives and empower data-driven decision-making.**
 
 📖 **I completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy and [**Bachelor of Science in Physics**](https://www.physics.utoronto.ca) at the University of Toronto.**
 
